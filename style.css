@@ -60,7 +60,9 @@ a:hover {
 	transition-duration: 0.3s;
 }
 
+<style>
 .responsive {
   width: 100%;
   height: auto;
 }
+</style>
