@@ -3,6 +3,12 @@
 	margin: 0;
 }
 
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 body {
 	font-family: 'Inter', sans-serif;
 	background-color: #F1F1F1;
@@ -60,9 +66,4 @@ a:hover {
 	transition-duration: 0.3s;
 }
 
-<style>
-.responsive {
-  width: 100%;
-  height: auto;
-}
 </style>
